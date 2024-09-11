@@ -67,33 +67,3 @@ void my_avg()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-void hello()
-{
-	printf("Test Hello");
-
-
-}
-
-
-void desc{}
-{
-	printf("Just Checking"):
-}
-*/
-
-
-
